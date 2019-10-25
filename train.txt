@@ -1,0 +1,301 @@
+DatasetWalkCircle/image56.jpg 886,827,985,1023,0 956,875,977,897,1 897,949,910,961,1 
+DatasetWalkCircle/image57.jpg 899,900,917,917,1 896,835,997,959,0 971,865,980,877,1 
+DatasetWalkCircle/image196.jpg 1211,779,1290,905,0 1240,856,1256,871,1 
+DatasetWalkCircle/image197.jpg 1298,715,1365,842,0 
+DatasetWalkCircle/image104.jpg 567,547,578,559,1 551,496,603,598,0 
+DatasetWalkCircle/image105.jpg 524,575,577,675,0 549,623,561,637,1 
+DatasetWalkCircle/image223.jpg 1145,764,1228,891,0 
+DatasetWalkCircle/image222.jpg 1065,805,1125,924,0 
+DatasetWalkCircle/image68.jpg 595,172,667,302,0 634,191,647,202,1 
+DatasetWalkCircle/image69.jpg 678,135,738,269,0 
+DatasetWalkCircle/image254.jpg 1302,489,1366,607,0 
+DatasetWalkCircle/image255.jpg 1279,422,1337,525,0 
+DatasetWalkCircle/image21.jpg 135,420,151,433,1 209,416,225,432,1 131,305,228,534,0 
+DatasetWalkCircle/image20.jpg 233,274,336,485,0 236,369,255,387,1 317,374,333,390,1 
+DatasetWalkCircle/image1.jpg 746,609,915,889,0 867,733,886,754,1 766,730,783,749,1 
+DatasetWalkCircle/image173.jpg 1425,442,1488,570,0 
+DatasetWalkCircle/image172.jpg 1457,553,1514,691,0 
+DatasetWalkCircle/image147.jpg 1473,554,1484,569,1 1418,479,1490,627,0 
+DatasetWalkCircle/image146.jpg 1469,532,1535,689,0 1516,611,1530,628,1 
+DatasetWalkCircle/image87.jpg 1154,918,1228,1007,0 
+DatasetWalkCircle/image86.jpg 1073,949,1152,1040,0 
+DatasetWalkCircle/image229.jpg 1251,366,1314,479,0 
+DatasetWalkCircle/image228.jpg 1285,428,1353,545,0 
+DatasetWalkCircle/image15.jpg 889,174,958,361,0 893,278,906,292,1 
+DatasetWalkCircle/image14.jpg 1014,183,1084,370,0 
+DatasetWalkCircle/image260.jpg 950,216,999,314,0 
+DatasetWalkCircle/image261.jpg 855,220,923,314,0 
+DatasetWalkCircle/image285.jpg 1096,302,1156,391,0 
+DatasetWalkCircle/image284.jpg 1147,356,1213,454,0 
+DatasetWalkCircle/image179.jpg 943,260,1009,377,0 
+DatasetWalkCircle/image178.jpg 1039,264,1119,376,0 1090,333,1105,346,1 
+DatasetWalkCircle/image217.jpg 626,810,683,931,0 
+DatasetWalkCircle/image216.jpg 566,837,580,849,1 532,766,610,887,0 
+DatasetWalkCircle/image130.jpg 412,397,482,560,0 442,474,455,487,1 655,5,680,81,0 
+DatasetWalkCircle/image131.jpg 390,509,405,522,1 357,419,417,587,0 730,6,758,88,0 
+DatasetWalkCircle/image62.jpg 402,597,490,751,0 468,669,483,679,1 406,629,419,638,1 
+DatasetWalkCircle/image63.jpg 367,512,443,652,0 426,585,438,594,1 
+DatasetWalkCircle/image234.jpg 840,240,915,347,0 
+DatasetWalkCircle/image235.jpg 752,255,818,372,0 
+DatasetWalkCircle/image113.jpg 966,682,983,702,1 881,721,899,741,1 865,612,1003,818,0 
+DatasetWalkCircle/image112.jpg 891,988,987,1077,0 970,1011,985,1025,1 
+DatasetWalkCircle/image181.jpg 751,302,826,421,0 
+DatasetWalkCircle/image180.jpg 861,272,903,391,0 
+DatasetWalkCircle/image41.jpg 960,129,1047,286,0 
+DatasetWalkCircle/image40.jpg 1090,152,1193,308,0 
+DatasetWalkCircle/image164.jpg 801,814,889,978,0 
+DatasetWalkCircle/image165.jpg 932,838,986,999,0 
+DatasetWalkCircle/image298.jpg 614,836,678,930,0 
+DatasetWalkCircle/image299.jpg 705,877,752,955,0 
+DatasetWalkCircle/image36.jpg 1430,329,1491,498,0 
+DatasetWalkCircle/image37.jpg 1380,269,1467,446,0 
+DatasetWalkCircle/image243.jpg 515,716,583,825,0 
+DatasetWalkCircle/image242.jpg 470,648,534,763,0 
+DatasetWalkCircle/image277.jpg 1139,799,1213,899,0 
+DatasetWalkCircle/image276.jpg 1046,836,1115,928,0 
+DatasetWalkCircle/image119.jpg 1491,418,1567,602,0 1504,516,1520,535,1 
+DatasetWalkCircle/image118.jpg 1496,561,1510,582,1 1489,459,1572,651,0 
+DatasetWalkCircle/image90.jpg 1331,722,1399,831,0 
+DatasetWalkCircle/image91.jpg 1356,638,1423,753,0 
+DatasetWalkCircle/image150.jpg 1176,373,1246,500,0 
+DatasetWalkCircle/image151.jpg 1076,360,1160,484,0 
+DatasetWalkCircle/image249.jpg 1038,801,1115,895,0 
+DatasetWalkCircle/image248.jpg 952,827,997,928,0 
+DatasetWalkCircle/image75.jpg 1207,244,1296,366,0 1268,295,1279,308,1 
+DatasetWalkCircle/image74.jpg 1143,178,1211,298,0 
+DatasetWalkCircle/image127.jpg 678,332,753,484,0 684,398,694,408,1 460,0,482,67,0 731,416,742,426,1 
+DatasetWalkCircle/image126.jpg 399,0,425,67,0 856,413,867,424,1 801,386,812,395,1 796,331,886,476,0 
+DatasetWalkCircle/image200.jpg 1352,479,1409,610,0 1360,549,1372,562,1 
+DatasetWalkCircle/image201.jpg 1306,410,1366,535,0 
+DatasetWalkCircle/image292.jpg 587,430,659,522,0 
+DatasetWalkCircle/image293.jpg 540,498,606,590,0 
+DatasetWalkCircle/image233.jpg 943,232,1001,345,0 
+DatasetWalkCircle/image232.jpg 1030,253,1088,364,0 
+DatasetWalkCircle/image186.jpg 438,582,505,725,0 
+DatasetWalkCircle/image187.jpg 464,648,526,785,0 
+DatasetWalkCircle/image46.jpg 383,238,476,405,0 
+DatasetWalkCircle/image47.jpg 297,284,393,461,0 
+DatasetWalkCircle/image114.jpg 1048,594,1147,802,0 1067,709,1090,728,1 
+DatasetWalkCircle/image115.jpg 1284,679,1300,696,1 1231,566,1308,774,0 
+DatasetWalkCircle/image31.jpg 1145,696,1236,869,0 
+DatasetWalkCircle/image30.jpg 1025,821,1046,844,1 1022,752,1129,946,0 
+DatasetWalkCircle/image163.jpg 661,779,748,939,0 735,837,746,849,1 678,865,691,875,1 
+DatasetWalkCircle/image162.jpg 598,796,610,811,1 546,728,609,886,0 
+DatasetWalkCircle/image78.jpg 1349,438,1421,570,0 1400,502,1414,517,1 
+DatasetWalkCircle/image79.jpg 1347,512,1413,632,0 1392,581,1404,592,1 
+DatasetWalkCircle/image244.jpg 587,766,669,877,0 
+DatasetWalkCircle/image245.jpg 684,792,754,916,0 738,831,750,841,1 689,852,703,861,1 
+DatasetWalkCircle/image270.jpg 552,698,630,805,0 
+DatasetWalkCircle/image271.jpg 637,743,694,836,0 
+DatasetWalkCircle/image97.jpg 1071,279,1117,378,0 
+DatasetWalkCircle/image96.jpg 1135,316,1205,420,0 
+DatasetWalkCircle/image157.jpg 498,470,546,606,0 529,549,540,560,1 
+DatasetWalkCircle/image156.jpg 577,501,589,513,1 550,429,608,563,0 
+DatasetWalkCircle/image239.jpg 468,432,531,539,0 
+DatasetWalkCircle/image238.jpg 523,368,577,483,0 
+DatasetWalkCircle/image120.jpg 44,2,76,53,0 1443,385,1521,558,0 
+DatasetWalkCircle/image121.jpg 102,1,130,53,0 1424,445,1434,466,1 1367,359,1437,523,0 
+DatasetWalkCircle/image72.jpg 941,131,1040,255,0 1018,163,1031,178,1 
+DatasetWalkCircle/image73.jpg 1118,184,1133,199,1 1044,148,1133,274,0 
+DatasetWalkCircle/image295.jpg 517,642,569,724,0 
+DatasetWalkCircle/image294.jpg 519,558,569,658,0 
+DatasetWalkCircle/image169.jpg 1310,785,1361,929,0 
+DatasetWalkCircle/image168.jpg 1196,914,1207,927,1 1182,827,1254,966,0 
+DatasetWalkCircle/image207.jpg 793,255,855,363,0 
+DatasetWalkCircle/image206.jpg 914,240,955,346,0 
+DatasetWalkCircle/image103.jpg 580,417,641,506,0 584,468,595,478,1 
+DatasetWalkCircle/image102.jpg 637,391,652,404,1 636,355,719,458,0 
+DatasetWalkCircle/image51.jpg 251,617,336,799,0 
+DatasetWalkCircle/image50.jpg 270,597,285,613,1 216,524,295,716,0 
+DatasetWalkCircle/image191.jpg 764,848,816,993,0 
+DatasetWalkCircle/image190.jpg 649,810,723,961,0 
+DatasetWalkCircle/image18.jpg 473,208,529,406,0 493,310,507,327,1 
+DatasetWalkCircle/image19.jpg 347,250,441,450,0 349,336,364,351,1 
+DatasetWalkCircle/image224.jpg 1238,706,1314,831,0 
+DatasetWalkCircle/image225.jpg 1292,634,1345,753,0 
+DatasetWalkCircle/image253.jpg 1302,574,1362,679,0 
+DatasetWalkCircle/image252.jpg 1275,640,1323,735,0 
+DatasetWalkCircle/image6.jpg 1541,473,1650,735,0 1547,605,1567,626,1 1627,588,1641,607,1 
+DatasetWalkCircle/image7.jpg 1594,422,1695,679,0 1599,556,1613,570,1 
+DatasetWalkCircle/image174.jpg 1379,377,1447,517,0 1431,440,1445,460,1 
+DatasetWalkCircle/image175.jpg 1304,332,1373,462,0 
+DatasetWalkCircle/image288.jpg 898,298,974,384,0 
+DatasetWalkCircle/image289.jpg 806,302,880,387,0 
+DatasetWalkCircle/image26.jpg 262,580,406,858,0 335,728,356,746,1 
+DatasetWalkCircle/image27.jpg 461,619,632,904,0 554,743,581,772,1 
+DatasetWalkCircle/image12.jpg 1295,218,1368,413,0 
+DatasetWalkCircle/image13.jpg 1198,310,1214,322,1 1138,200,1249,391,0 
+DatasetWalkCircle/image140.jpg 1026,887,1038,900,1 1015,792,1069,954,0 
+DatasetWalkCircle/image141.jpg 1137,763,1213,928,0 
+DatasetWalkCircle/image80.jpg 1323,595,1393,733,0 
+DatasetWalkCircle/image81.jpg 1271,663,1358,803,0 1277,723,1290,737,1 
+DatasetWalkCircle/image267.jpg 484,502,548,605,0 
+DatasetWalkCircle/image266.jpg 496,438,567,551,0 
+DatasetWalkCircle/image109.jpg 639,876,720,980,0 698,910,715,927,1 
+DatasetWalkCircle/image108.jpg 622,872,633,883,1 590,816,641,904,0 
+DatasetWalkCircle/image210.jpg 530,355,584,467,0 557,421,569,434,1 
+DatasetWalkCircle/image211.jpg 508,484,519,498,1 490,420,549,542,0 
+DatasetWalkCircle/image282.jpg 1228,479,1281,560,0 
+DatasetWalkCircle/image283.jpg 1191,411,1251,498,0 
+DatasetWalkCircle/image259.jpg 1018,226,1086,327,0 
+DatasetWalkCircle/image258.jpg 1096,263,1170,362,0 
+DatasetWalkCircle/image65.jpg 394,347,472,496,0 402,431,416,445,1 
+DatasetWalkCircle/image64.jpg 373,430,443,566,0 380,505,394,518,1 
+DatasetWalkCircle/image137.jpg 1065,16,1095,101,0 712,666,728,681,1 646,696,659,710,1 624,581,728,788,0 
+DatasetWalkCircle/image136.jpg 1027,10,1056,95,0 525,662,542,684,1 565,651,582,669,1 509,554,586,758,0 
+DatasetWalkCircle/image274.jpg 880,893,954,988,0 
+DatasetWalkCircle/image275.jpg 979,871,1026,959,0 
+DatasetWalkCircle/image188.jpg 495,710,560,853,0 
+DatasetWalkCircle/image189.jpg 554,764,634,911,0 
+DatasetWalkCircle/image48.jpg 247,341,336,527,0 
+DatasetWalkCircle/image49.jpg 223,442,297,619,0 265,514,279,532,1 
+DatasetWalkCircle/image93.jpg 1318,492,1386,609,0 
+DatasetWalkCircle/image92.jpg 1356,564,1413,665,0 
+DatasetWalkCircle/image153.jpg 887,356,927,482,0 
+DatasetWalkCircle/image152.jpg 983,352,1047,475,0 
+DatasetWalkCircle/image76.jpg 1292,300,1341,411,0 1320,364,1332,377,1 
+DatasetWalkCircle/image77.jpg 1325,366,1401,500,0 1381,428,1394,442,1 
+DatasetWalkCircle/image124.jpg 273,0,306,67,0 1048,323,1098,481,0 
+DatasetWalkCircle/image125.jpg 926,325,1000,472,0 337,0,357,65,0 
+DatasetWalkCircle/image203.jpg 1186,299,1248,413,0 
+DatasetWalkCircle/image202.jpg 1263,343,1315,461,0 
+DatasetWalkCircle/image291.jpg 661,374,713,461,0 
+DatasetWalkCircle/image290.jpg 746,325,783,409,0 
+DatasetWalkCircle/image99.jpg 884,261,954,351,0 
+DatasetWalkCircle/image98.jpg 977,267,1049,362,0 
+DatasetWalkCircle/image159.jpg 402,565,467,719,0 405,637,416,650,1 
+DatasetWalkCircle/image158.jpg 472,592,483,604,1 425,582,434,595,1 423,516,486,659,0 
+DatasetWalkCircle/image237.jpg 579,314,653,428,0 
+DatasetWalkCircle/image236.jpg 667,277,719,386,0 
+DatasetWalkCircle/image110.jpg 717,921,802,1026,0 779,955,794,971,1 
+DatasetWalkCircle/image111.jpg 798,967,877,1056,0 
+DatasetWalkCircle/image182.jpg 642,337,717,458,0 
+DatasetWalkCircle/image183.jpg 577,383,625,508,0 
+DatasetWalkCircle/image42.jpg 857,123,925,292,0 
+DatasetWalkCircle/image43.jpg 705,141,803,304,0 
+DatasetWalkCircle/image167.jpg 1011,847,1114,988,0 1035,930,1048,946,1 
+DatasetWalkCircle/image301.jpg 886,924,962,1009,0 
+DatasetWalkCircle/image300.jpg 791,908,857,990,0 
+DatasetWalkCircle/image166.jpg 889,847,974,986,0 
+DatasetWalkCircle/image35.jpg 1428,405,1496,593,0 1437,506,1449,521,1 
+DatasetWalkCircle/image34.jpg 1405,481,1483,661,0 
+DatasetWalkCircle/image209.jpg 598,306,669,425,0 
+DatasetWalkCircle/image208.jpg 697,274,778,389,0 
+DatasetWalkCircle/image240.jpg 439,504,505,617,1 
+DatasetWalkCircle/image241.jpg 455,576,507,694,0 
+DatasetWalkCircle/image144.jpg 1456,721,1468,732,1 1449,643,1524,800,0 
+DatasetWalkCircle/image145.jpg 1487,590,1550,732,0 
+DatasetWalkCircle/image84.jpg 994,900,1007,918,1 993,831,1060,953,0 
+DatasetWalkCircle/image85.jpg 970,960,1064,1059,0 982,994,994,1005,1 1045,1003,1053,1017,1 
+DatasetWalkCircle/image16.jpg 716,175,828,359,0 
+DatasetWalkCircle/image17.jpg 572,186,673,376,0 
+DatasetWalkCircle/image263.jpg 661,263,729,364,0 
+DatasetWalkCircle/image262.jpg 752,234,820,335,0 
+DatasetWalkCircle/image8.jpg 1599,370,1697,605,0 1605,490,1621,509,1 
+DatasetWalkCircle/image9.jpg 1566,335,1652,549,0 1633,446,1648,459,1 1572,432,1586,443,1 
+DatasetWalkCircle/image286.jpg 1049,267,1098,349,0 
+DatasetWalkCircle/image287.jpg 981,279,1044,366,0 
+DatasetWalkCircle/image214.jpg 446,636,506,756,0 
+DatasetWalkCircle/image215.jpg 476,704,537,835,0 490,775,506,788,1 
+DatasetWalkCircle/image28.jpg 785,773,801,793,1 711,628,814,916,0 
+DatasetWalkCircle/image29.jpg 851,780,979,965,0 857,838,874,867,1 954,844,970,862,1 
+DatasetWalkCircle/image133.jpg 301,566,313,579,1 295,478,365,662,0 851,8,882,90,0 
+DatasetWalkCircle/image132.jpg 787,8,815,90,0 298,450,371,626,0 305,534,317,551,1 352,544,365,558,1 
+DatasetWalkCircle/image61.jpg 474,677,536,811,0 
+DatasetWalkCircle/image60.jpg 554,747,639,889,0 563,764,576,776,1 
+DatasetWalkCircle/image55.jpg 814,885,838,908,1 717,953,731,970,1 700,848,843,1037,0 
+DatasetWalkCircle/image54.jpg 567,819,663,1009,0 635,889,653,910,1 617,934,631,946,1 
+DatasetWalkCircle/image195.jpg 1122,823,1178,942,0 
+DatasetWalkCircle/image194.jpg 1020,849,1081,976,0 
+DatasetWalkCircle/image269.jpg 501,642,571,745,0 
+DatasetWalkCircle/image268.jpg 484,570,550,673,0 
+DatasetWalkCircle/image107.jpg 545,738,605,843,0 572,788,586,802,1 
+DatasetWalkCircle/image106.jpg 519,659,573,752,0 
+DatasetWalkCircle/image220.jpg 823,860,916,962,0 828,890,842,904,1 
+DatasetWalkCircle/image221.jpg 950,836,1024,955,0 
+DatasetWalkCircle/image257.jpg 1180,310,1232,407,0 
+DatasetWalkCircle/image256.jpg 1242,354,1294,452,0 
+DatasetWalkCircle/image139.jpg 853,805,948,963,0 
+DatasetWalkCircle/image138.jpg 1121,21,1150,110,0 807,706,819,722,1 876,673,893,688,1 784,593,906,798,0 
+DatasetWalkCircle/image22.jpg 77,353,172,594,0 87,474,101,490,1 142,469,163,493,1 
+DatasetWalkCircle/image23.jpg 45,413,144,665,0 51,537,71,554,1 112,521,131,546,1 
+DatasetWalkCircle/image2.jpg 967,606,1076,887,0 1048,749,1066,770,1 
+DatasetWalkCircle/image3.jpg 1117,584,1267,854,0 1218,680,1238,700,1 1207,745,1225,760,1 
+DatasetWalkCircle/image170.jpg 1391,812,1404,828,1 1390,736,1468,889,0 
+DatasetWalkCircle/image171.jpg 1441,679,1508,825,0 1442,754,1453,766,1 
+DatasetWalkCircle/image11.jpg 1393,252,1487,461,0 1468,346,1485,365,1 
+DatasetWalkCircle/image10.jpg 1481,292,1596,521,0 1565,398,1583,419,1 
+DatasetWalkCircle/image143.jpg 1379,702,1465,870,0 1381,780,1395,793,1 
+DatasetWalkCircle/image142.jpg 1277,827,1289,841,1 1271,744,1368,914,0 
+DatasetWalkCircle/image83.jpg 1100,796,1201,922,0 1122,865,1136,879,1 
+DatasetWalkCircle/image82.jpg 1234,808,1246,823,1 1209,730,1275,851,0 
+DatasetWalkCircle/image264.jpg 597,314,645,413,0 
+DatasetWalkCircle/image265.jpg 532,370,602,475,0 
+DatasetWalkCircle/image58.jpg 795,832,860,953,0 799,903,808,916,1 
+DatasetWalkCircle/image59.jpg 659,811,770,937,0 718,891,727,901,1 666,832,676,842,1 
+DatasetWalkCircle/image198.jpg 1362,636,1413,768,0 1393,706,1406,720,1 
+DatasetWalkCircle/image199.jpg 1372,553,1430,672,0 
+DatasetWalkCircle/image213.jpg 439,561,496,690,0 
+DatasetWalkCircle/image212.jpg 458,490,509,621,0 484,557,499,573,1 
+DatasetWalkCircle/image281.jpg 1265,547,1316,642,0 
+DatasetWalkCircle/image280.jpg 1281,617,1335,716,0 
+DatasetWalkCircle/image66.jpg 450,278,511,401,0 
+DatasetWalkCircle/image67.jpg 508,215,588,353,0 557,233,567,244,1 
+DatasetWalkCircle/image134.jpg 908,7,934,88,0 337,597,352,615,1 325,509,402,700,0 
+DatasetWalkCircle/image135.jpg 973,11,999,91,0 415,632,431,649,1 398,533,482,727,0 
+DatasetWalkCircle/image100.jpg 810,277,868,368,0 
+DatasetWalkCircle/image101.jpg 712,312,797,414,0 719,349,729,360,1 
+DatasetWalkCircle/image52.jpg 330,704,431,897,0 383,789,399,808,1 
+DatasetWalkCircle/image53.jpg 503,860,520,880,1 435,780,540,962,0 
+DatasetWalkCircle/image192.jpg 878,860,956,1003,0 
+DatasetWalkCircle/image193.jpg 883,856,981,980,0 887,903,903,917,1 962,918,974,932,1 
+DatasetWalkCircle/image149.jpg 1273,393,1318,525,0 
+DatasetWalkCircle/image148.jpg 1356,428,1416,569,0 1399,496,1411,508,1 
+DatasetWalkCircle/image89.jpg 1296,790,1345,889,0 
+DatasetWalkCircle/image88.jpg 1236,856,1312,965,0 
+DatasetWalkCircle/image227.jpg 1316,496,1378,619,0 
+DatasetWalkCircle/image226.jpg 1314,566,1374,673,0 
+DatasetWalkCircle/image250.jpg 1129,764,1209,869,0 
+DatasetWalkCircle/image251.jpg 1213,710,1279,811,0 
+DatasetWalkCircle/image5.jpg 1465,506,1559,772,0 1536,650,1552,663,1 
+DatasetWalkCircle/image4.jpg 1312,547,1459,821,0 1392,634,1407,654,1 1373,699,1390,716,1 
+DatasetWalkCircle/image177.jpg 1140,271,1196,388,0 
+DatasetWalkCircle/image176.jpg 1230,293,1279,418,0 
+DatasetWalkCircle/image25.jpg 154,510,262,792,0 165,665,185,683,1 234,651,250,670,1 
+DatasetWalkCircle/image24.jpg 68,465,177,737,0 80,602,97,618,1 151,582,170,607,1 
+DatasetWalkCircle/image219.jpg 813,887,900,1012,0 
+DatasetWalkCircle/image218.jpg 713,857,796,978,0 
+DatasetWalkCircle/image273.jpg 806,813,882,930,0 
+DatasetWalkCircle/image272.jpg 713,790,770,883,0 
+DatasetWalkCircle/image94.jpg 1259,420,1329,522,0 
+DatasetWalkCircle/image95.jpg 1203,364,1267,465,0 
+DatasetWalkCircle/image154.jpg 760,372,828,496,0 
+DatasetWalkCircle/image155.jpg 648,398,722,525,0 664,463,678,474,1 
+DatasetWalkCircle/image123.jpg 221,0,244,61,0 1152,332,1230,488,0 1212,409,1226,423,1 
+DatasetWalkCircle/image122.jpg 161,1,192,59,0 1331,426,1345,442,1 1263,346,1351,506,0 
+DatasetWalkCircle/image71.jpg 869,129,929,246,0 
+DatasetWalkCircle/image70.jpg 756,133,847,253,0 760,174,775,189,1 830,158,841,171,1 
+DatasetWalkCircle/image296.jpg 536,714,595,807,0 
+DatasetWalkCircle/image297.jpg 558,786,620,879,0 
+DatasetWalkCircle/image204.jpg 1081,263,1162,377,0 
+DatasetWalkCircle/image205.jpg 999,242,1069,351,0 
+DatasetWalkCircle/image38.jpg 1298,218,1391,389,0 1298,244,1309,253,1 1374,293,1385,304,1 
+DatasetWalkCircle/image39.jpg 1218,170,1277,327,0 
+DatasetWalkCircle/image230.jpg 1189,314,1263,444,0 
+DatasetWalkCircle/image231.jpg 1104,275,1185,405,0 
+DatasetWalkCircle/image185.jpg 458,515,525,656,0 
+DatasetWalkCircle/image184.jpg 510,447,567,576,0 
+DatasetWalkCircle/image45.jpg 488,189,552,351,0 
+DatasetWalkCircle/image44.jpg 573,162,653,321,0 
+DatasetWalkCircle/image279.jpg 1265,691,1323,776,0 
+DatasetWalkCircle/image278.jpg 1218,751,1271,836,0 
+DatasetWalkCircle/image117.jpg 1431,494,1528,696,0 1437,601,1452,617,1 
+DatasetWalkCircle/image116.jpg 1361,530,1457,734,0 1369,639,1386,660,1 
+DatasetWalkCircle/image32.jpg 1255,636,1368,829,0 1331,661,1346,675,1 1296,749,1311,763,1 
+DatasetWalkCircle/image33.jpg 1360,555,1434,743,0 
+DatasetWalkCircle/image160.jpg 407,617,474,772,0 414,691,428,706,1 
+DatasetWalkCircle/image161.jpg 448,759,462,774,1 441,675,505,832,0 
+DatasetWalkCircle/image247.jpg 843,842,931,935,0 
+DatasetWalkCircle/image246.jpg 787,813,843,926,0 
+DatasetWalkCircle/image129.jpg 512,447,525,458,1 493,370,562,528,0 586,0,611,76,0 
+DatasetWalkCircle/image128.jpg 582,346,632,498,0 604,429,615,441,1 583,422,592,433,1 517,1,541,71,0 
