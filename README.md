@@ -12,7 +12,7 @@ Autonomous Shop System
 * 5.matplotlib,v3.1.1
 * 6.PyQtChart,v5.14.0
 
-# Requirment(Customer)
+# Requirements(Customer)
 * 1.Nvidia Jetson nano
 * 2.Linux
 * 3.pyQt5
