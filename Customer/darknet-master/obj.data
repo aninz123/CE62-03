@@ -1,5 +1,0 @@
-classes= 15
-train  = /home/aninz/Desktop/mainprojec/Project4D/darknet-master/train.txt  
-valid  = /home/aninz/Desktop/mainprojec/Project4D/darknet-master/test.txt 
-names = /home/aninz/Desktop/mainprojec/Project4D/darknet-master/obj.names 
-backup = /backup
