@@ -5,7 +5,7 @@ Autonomous Shop System
 
 
 # Requirements(Admin)
-* 1.Windows
+* 1.Windows 10
 * 2.Python,v3.6.8
 * 3.ptqt5,v5.14.2
 * 4.Pymysql,v0.9.3
